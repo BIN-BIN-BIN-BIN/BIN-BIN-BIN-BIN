@@ -1,16 +1,44 @@
-## Hi there 👋
+# Bin Zhu | Research Portfolio
 
-<!--
-**BIN-BIN-BIN-BIN/BIN-BIN-BIN-BIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Generative AI · Digital Media Arts · Cultural Heritage**
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Associate Professor and researcher focusing on generative artificial intelligence, digital media arts, cultural heritage, and visual narratives.
+
+## Research Interests
+
+- Generative AI and Digital Media Arts
+- Cultural Heritage Digitisation
+- Visual Semiotics and Narrative
+- AI-generated Documentary Creation
+- Human–AI Collaboration
+
+## Research Software
+
+- Cultural Constraint Engine (CCE)
+
+## Research Frameworks
+
+- Culturally Constrained Iconographic Generation Framework (CCIGF)
+
+## Open Datasets
+
+- Cultural Heritage Research Data
+
+## AI & Digital Arts
+
+- Generative Media and Visual Narrative Tools
+
+## Education & Teaching
+
+- AI-assisted Learning and Teaching Tools
+
+## Academic Profiles
+
+- ORCID
+- OSF
+- Zenodo
+
+---
+This profile provides a central index of my research software, frameworks, datasets, and academic projects.
